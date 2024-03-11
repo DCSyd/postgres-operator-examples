@@ -1,1 +1,1 @@
-namespace: postgres-operator
+defaultNamespace: postgres-operator
